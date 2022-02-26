@@ -13,7 +13,7 @@ function Chat() {
         <ChatEngine
             
             projectID = "89083eb4-71b4-44a5-9f17-fcb51f4e2612"
-            userName= "Bob"
+            userName= "aakash"
             userSecret="123123"
             
           />
